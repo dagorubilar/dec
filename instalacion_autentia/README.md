@@ -1,2 +1,0 @@
-# instalación Autentia
-***
